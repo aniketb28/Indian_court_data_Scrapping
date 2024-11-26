@@ -11,7 +11,7 @@ This project is designed to extract data points from Indian court websites using
 - **Pandas**: For data manipulation and analysis.
 
 ## Project Structure
-- `main.py`: Main script to run the web scraping process.
+- `court_scraping.py`: Main script to run the web scraping process.
 - `requirements.txt`: List of required Python packages.
 - `README.md`: Project documentation.
 
