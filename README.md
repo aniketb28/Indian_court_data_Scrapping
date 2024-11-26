@@ -39,7 +39,8 @@ This project is designed to extract data points from Indian court websites using
 
 2. **Run the script:**
     ```sh
-    python main.py
+    python court_scraping.py
+    
     ```
 
 ## Code Explanation
